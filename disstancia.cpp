@@ -7,11 +7,12 @@ using namespace std;
     return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
     }
 
-int main() {
+    int main() {
     double x1, y1, x2, y2;
 
     cout << "Pedir al usuario que ingrese las coordenadas\n";
     cout << "Aut@r: Sarai Morales" << endl;
+    cout << "Fecha: 14 de Octubre del 2024" << endl;
     cout << "x1: ";
     cin >> x1;
     cout << "y1: ";
